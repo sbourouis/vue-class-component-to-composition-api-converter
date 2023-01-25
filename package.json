@@ -1,0 +1,22 @@
+{
+  "name": "vue-class-component-to-composition-api-converter",
+  "version": "0.0.1",
+  "description": "vue-class-component to composition-api with script setup converter",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbourouis/vue-class-component-to-composition-api-converter.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "sbourouis",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/sbourouis/vue-class-component-to-composition-api-converter/issues"
+  },
+  "homepage": "https://github.com/sbourouis/vue-class-component-to-composition-api-converter#readme"
+}
